@@ -11,5 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "repository": "https://github.com/Assistants-Center/Compare-API",
+  "homepage": "https://github.com/Assistants-Center/Compare-API/blob/main/README.md"
 }
