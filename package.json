@@ -1,0 +1,15 @@
+{
+  "name": "compare-api",
+  "version": "1.0.1",
+  "description": "A simple tool to listen for changes to an API endpoint!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "breftejk",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
